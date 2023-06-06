@@ -16,4 +16,4 @@ in the manifest file. After adding the code, it started working quite well.
 
 I hope you enjoy the write up down below. It contains information related to Intents and URI.
 
-Check out this profile for such writeups : shibushivansh.medium.com
+Check out this profile for such writeups : [shibushivansh.medium.com](https://shibushivansh.medium.com/)

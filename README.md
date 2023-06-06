@@ -6,9 +6,11 @@ During the creation of this application, I ran through a problem : "Whatsapp Not
 
 This was so because my Application was unbale to find the Package Named "Whatsapp" in the PackageManager. So, I was requiredd to insert the code:
 
-"""<queries>
-<package android:name="com.whatsapp" />
-</queries>"""
+```
+<queries>
+<package android:name="com.whatsapp"/>
+</queries>
+```
 
 in the manifest file. After adding the code, it started working quite well.
 
